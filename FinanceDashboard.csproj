@@ -11,9 +11,7 @@
   <ItemGroup>
     <Folder Include="FinanceDashboard\Assets\Icons\" />
     <Folder Include="FinanceDashboard\Assets\Styles\" />
-    <Folder Include="FinanceDashboard\Models\" />
     <Folder Include="FinanceDashboard\Views\" />
-    <Folder Include="FinanceDashboard\ViewModels\" />
   </ItemGroup>
 
 </Project>
