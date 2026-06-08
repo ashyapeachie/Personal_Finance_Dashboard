@@ -4,9 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FinanceDashboard.FinanceDashboard.Models
+namespace FinanceDashboard.Models
 {
-    internal class Transaction
+    public class Transaction
     {
+        //public string
+        //public decimal
+        //public string
+        //public DateTime
     }
 }
