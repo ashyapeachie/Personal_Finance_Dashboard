@@ -7,7 +7,12 @@ My Personal Finance Dashboard is a desktop app built in C# using Windows Present
 - practice UX / UI design principles
 - display financial data visually (charts + summaries)
 
-## Features 
+## 📚 Tech Stack
+- GitHub
+- Visual Studio
+- C#
+
+## ⭐ Features 
 - dashboard
 - transactions
 - analytics
