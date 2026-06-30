@@ -31,3 +31,5 @@ My Personal Finance Dashboard is a desktop app built in C# using Windows Present
 
 ## 🗂️ Project Structure
 
+## 🍑 Author
+Ashya H. Computer Infomation Technology Student- Programming Cincentration
